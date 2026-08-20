@@ -1,6 +1,5 @@
 ---
 title: "Track & Field"
-navbar: false
 ---
 
 I have been involved in track and field for many years.
