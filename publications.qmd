@@ -1,11 +1,43 @@
 ---
 title: "Publications"
+toc: true
 ---
 
 ## Journal Articles
 
-Publication list will be added here.
+1. **Naotaka Shigeta**, Coauthor A, Coauthor B,  
+   "Title of the paper,"  
+   *Journal Name*, Vol. XX, No. XX, pp. XXX-XXX, 2026.  
+   [DOI](https://doi.org/xxxxx){target="_blank"}
 
-## Conference Presentations
+## Conference Presentations (International)
 
-Conference presentations will be added here.
+### First Author
+
+2\. **Naotaka Shigeta**, Coauthor A, Coauthor B,  
+   "Title of the presentation,"  
+   *Conference Name*, City, Country, Month Year.
+
+1\. **Naotaka Shigeta**, Coauthor A, Coauthor B,  
+   "Title of the presentation,"  
+   *Conference Name*, City, Country, Month Year.
+
+### Coauthor
+
+1. Author A, **Naotaka Shigeta**, Author C,  
+   "Title of the presentation,"  
+   *Conference Name*, City, Country, Month Year.
+
+## Conference Presentations (Domestic)
+
+### First Author
+
+1. **重田 直賢**，共著者A，共著者B，  
+   「発表タイトル」，  
+   第XX回○○学会，開催地，2026年X月．
+
+### Coauthor
+
+1. 著者A，**重田 直賢**，著者C，  
+   「発表タイトル」，  
+   第XX回○○学会，開催地，2026年X月．

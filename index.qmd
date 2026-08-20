@@ -1,5 +1,5 @@
 ---
-toc: false
+toc: true
 ---
 ## Naotaka Shigeta
 
@@ -20,10 +20,10 @@ My research focuses on shock waves and compressible flows, using both experiment
 
 I am particularly interested in the interaction of shock waves with turbulence, boundary layers, and complex flow structures.
 
-[Google Scholar](YOUR_GOOGLE_SCHOLAR_URL){target="_blank"} |
-[ORCID](YOUR_ORCID_URL){target="_blank"} |
-[researchmap](YOUR_RESEARCHMAP_URL){target="_blank"} |
-[LinkedIn](YOUR_LINKEDIN_URL){target="_blank"} |
+[Google Scholar](https://scholar.google.co.jp/citations?user=K0Qp-fUAAAAJ&hl=ja){target="_blank"} |
+[ORCID](https://orcid.org/0009-0006-9675-3147){target="_blank"} |
+[researchmap](https://researchmap.jp/naotaka.shigeta){target="_blank"} |
+[LinkedIn](https://www.linkedin.com/in/naotaka-shigeta-b9a237287/?locale=ja){target="_blank"} |
 [GitHub](https://github.com/naotaka-shigeta){target="_blank"}
 
 :::
@@ -34,13 +34,13 @@ I am particularly interested in the interaction of shock waves with turbulence, 
 
 ## Research Topics
 
-### Shock-Turbulence Interaction
-
-Understanding how shock waves interact with turbulent flows through numerical simulations and experiments.
-
 ### Shock Wave Attenuation
 
 Investigating the modulation and attenuation of shock waves through interactions with porous surfaces and complex geometries.
+
+### Shock-Turbulence Interaction
+
+Understanding how shock waves interact with turbulent flows through numerical simulations and experiments.
 
 ### Shock-Wave/Boundary-Layer Interaction
 
