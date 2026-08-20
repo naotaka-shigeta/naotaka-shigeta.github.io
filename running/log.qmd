@@ -1,0 +1,7 @@
+---
+title: "Race & Training Log"
+---
+
+[← Track & Field](index.qmd)
+
+Training logs, race reports, and personal notes will be posted here.

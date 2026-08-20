@@ -1,0 +1,16 @@
+---
+title: "Track & Field"
+navbar: false
+---
+
+I have been involved in track and field for many years.
+
+This section contains my personal records, training logs, and race results.
+
+---
+
+[Records](records.qmd) | [Training](training.qmd) | [Race & Training Log](log.qmd)
+
+---
+
+[Back to Research Site](../index.qmd)

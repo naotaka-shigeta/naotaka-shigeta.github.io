@@ -1,0 +1,9 @@
+---
+title: "Training"
+---
+
+[← Track & Field](index.qmd)
+
+## Training Menu
+
+Training programs and notes will be collected here.

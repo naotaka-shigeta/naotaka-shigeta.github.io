@@ -11,8 +11,6 @@ website:
         text: Research
       - href: publications.qmd
         text: Publications
-      - href: blog.qmd
-        text: Blog
       - href: about.qmd
         text: About
     right:

@@ -2,4 +2,8 @@
 title: "About"
 ---
 
-About this site
+### Outside Research
+
+I have also been involved in track and field for many years.
+
+[Track & Field →](running/index.html)
