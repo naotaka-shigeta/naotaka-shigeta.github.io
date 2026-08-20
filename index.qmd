@@ -1,0 +1,21 @@
+---
+title: "Naotaka Shigeta"
+---
+
+## Welcome
+
+I am a doctoral student at Nagoya University.
+
+My research focuses on **shock waves, compressible flows, and turbulence**.
+
+### Research Interests
+
+- Shock waves
+- Compressible flow
+- Shock–turbulence interaction
+- Shock-wave/boundary-layer interaction
+- Experimental and computational fluid dynamics
+
+### About this website
+
+This website presents my research activities, publications, and occasional notes and blog posts.
