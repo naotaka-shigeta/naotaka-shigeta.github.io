@@ -5,39 +5,145 @@ toc: true
 
 ## Journal Articles
 
-1. **Naotaka Shigeta**, Coauthor A, Coauthor B,  
-   "Title of the paper,"  
-   *Journal Name*, Vol. XX, No. XX, pp. XXX-XXX, 2026.  
-   [DOI](https://doi.org/xxxxx){target="_blank"}
+2\. **N. Shigeta**, J. Hagiwara, D. Custodio, N. Kimura, T. Asahi, K. Ozawa, T. Yamaguchi, G. Fukushima, Y. Nakamura,  A. Sasoh,  
+   "Experimental investigation of the Chester problem with weak shock waves propagating in converging ducts with quasi-steady flow", 
+   Shock Waves, Volume 35, Issue 6, 721-737, 2025.
+   [DOI](https://doi.org/10.1007/s00193-025-01244-2){target="_blank"}
+
+
+1\. J. Hagiwara, **N. Shigeta**, N. Kimura, D. Custodio, T. Asahi, K. Ozawa, T. Yamaguchi, Y. Nakamura, A. Sasoh, 
+   "Geometrical impedance matching for weak shock waves at shock tube end wall", 
+   Physics of Fluids, Volume 37, Issue 4, 046111, 2025.
+   [DOI](https://doi.org/10.1063/5.0260782){target="_blank"}
 
 ## Conference Presentations (International)
 
 ### First Author
 
-2\. **Naotaka Shigeta**, Coauthor A, Coauthor B,  
-   "Title of the presentation,"  
-   *Conference Name*, City, Country, Month Year.
+3\. **N. Shigeta**, N. Kimura, J. Hagiwara, D. Custodio, T. Asahi, K. Ozawa, G. Fukushima, Y. Nakamura, A. Sasoh,
+   "Shock Wave Propagation with Fore-Flow in Converging Ducts”, 
+   The 35th International Symposium on Shock Waves, Brisbane, Australia, July 2025. 
 
-1\. **Naotaka Shigeta**, Coauthor A, Coauthor B,  
-   "Title of the presentation,"  
-   *Conference Name*, City, Country, Month Year.
+2\. **N. Shigeta**, J. Hagiwara, D. Custodio, N. Kimura, G. Fukushima, Y. Nakamura, A. Sasoh, 
+   "Shock-Flow Interaction Experiments using Two-Diaphragm Shock Tube", 
+   The Fourth International Conference on High Temperature Gas Dynamics, Beijing, China, October 2024. 
+
+1\. **N. Shigeta**, G. Fukushima, T. Yamaguchi, J. Hagiwara, D. Custodio, Y. Nakamura, A. Sasoh, 
+   "Shock Wave Mitigation due to Forward Flow Nudge", 
+   The 34th International Symposium on Shock Waves，Daegu, Korea, July 2023.
+
+
 
 ### Coauthor
 
-1. Author A, **Naotaka Shigeta**, Author C,  
-   "Title of the presentation,"  
-   *Conference Name*, City, Country, Month Year.
+1\. T. Yamaguchi, **N. Shigeta**, G. Fukushima, D. Custodio, Y. Nakamura, A. Sasoh, 
+   "Shock Wave Mitigation through Magic Fence",
+   The 34th International Symposium on Shock Waves, Daegu, Korea, July 2023.
 
 ## Conference Presentations (Domestic)
 
 ### First Author
 
-1. **重田 直賢**，共著者A，共著者B，  
-   「発表タイトル」，  
-   第XX回○○学会，開催地，2026年X月．
+7\. **重田直賢**, 永田貴之，野々村拓, 
+   「主流超音速下における格子乱流生成に関するLESによる検討」, 
+   第58回流体力学講演会/第44回航空宇宙数値シミュレーション技術シンポジウム, とりぎん文化会館, 鳥取県鳥取市, 2026年6月.
+
+6\. **重田直賢**, K. Ramachandra, H. Babinsky, 
+   「圧縮コーナーによる衝撃波・境界層干渉における表面粗さの剥離挙動への影響」, 
+   2025年度衝撃波シンポジウム, 名古屋大学 東山キャンパス, 愛知県名古屋市, 2026年3月.
+
+5\. **重田直賢**, 萩原淳, Custodio Daniel, 木村成将, 山口月, 福嶋岳, 中村友祐, 佐宗章弘, 
+   「Chester問題の数値的・実験的検証」, 
+   2024年度衝撃波シンポジウム, 東北大学 片平さくらホール・流体科学研究所, 宮城県仙台市, 2025年3月.
+
+4\. **重田直賢**, 萩原淳, クストディオダニエル, 木村成将, 旭拓海, 福嶋岳, 中村友祐, 佐宗章弘, 
+   「Two-Diaphragm Shock Tubeを利用した衝撃波－前方誘起流れ干渉実験」, 
+   第61回日本航空宇宙学会中部・関西支部合同秋期大会, 名城大学 天白キャンパス, 愛知県名古屋市, 2024年11月.
+
+3\. **重田直賢**, 萩原淳, Custodio Daniel, 木村成将, 山口月, 福嶋岳, 中村友祐, 佐宗章弘, 
+   「2つの独立破膜機構を有する衝撃波管を利用した衝撃波-準定常前方流れ干渉実験」, 
+   第56回流体力学講演会/第42回航空宇宙数値シミュレーション技術シンポジウム, カクイックス交流センター, 鹿児島県鹿児島市, 2024年7月.
+
+2\. **重田直賢**, Daniel Custodio, 萩原淳, 山口月, 木村成将, 福嶋岳, 中村友祐, 佐宗章弘, 
+   「収縮流路内における前方準定常流れによる衝撃波の変調」, 
+   2023年度衝撃波シンポジウム, 北九州国際会議場, 福岡県北九州市, 2024年3月. 
+
+1\. **重田直賢**, 福嶋岳, 山口月, クストディオダニエル, 萩原淳, 中村友祐, 佐宗章弘, 
+   「前方流速場nudgeと衝撃波の干渉実験」,
+   2022年度衝撃波シンポジウム, 産業技術総合研究所 つくば中央, 茨城県つくば市, 2023年3月. 
 
 ### Coauthor
 
-1. 著者A，**重田 直賢**，著者C，  
-   「発表タイトル」，  
-   第XX回○○学会，開催地，2026年X月．
+12\. 永田貴之，佐藤 友理, 堀内 琉敏, **重田直賢**, 野々村拓, 
+   「名古屋大学火星大気風洞2.0の仕様と構築状況について」, 
+   第58回流体力学講演会/第44回航空宇宙数値シミュレーション技術シンポジウム, とりぎん文化会館, 鳥取県鳥取市, 2026年6月, 3C12
+
+11\. 佐藤 友理, **重田直賢**, 堀内 琉敏, 永田貴之，野々村拓, 
+   「火星大気風洞2.0における試験時間測定」, 
+   第58回流体力学講演会/第44回航空宇宙数値シミュレーション技術シンポジウム, とりぎん文化会館, 鳥取県鳥取市, 2026年6月, 2E05
+
+10\. 木村成将, **重田直賢**, 萩原淳, Custodio Daniel, 中村友祐, 佐宗章弘, 
+   「前方誘起流れとの干渉による衝撃波の変調」, 
+   2024年度衝撃波シンポジウム, 東北大学 片平さくらホール・流体科学研究所, 宮城県仙台市, 2025年3月, 2A1-3, 
+
+9\. Custodio Daniel, **重田直賢**, 萩原淳, 木村成将, 中村友祐, 佐宗章弘, 
+   「多孔質側壁による衝撃波減衰における多孔質壁厚さおよびセル密度の影響」, 
+   2024年度衝撃波シンポジウム, 東北大学 片平さくらホール・流体科学研究所, 宮城県仙台市, 2025年3月, 2A1-2
+
+8\. 木村成将, **重田直賢**, クストディオダニエル, 萩原淳, 山口月, 中村友祐, 佐宗章弘, 
+   「衝撃波と前方順方向噴流との干渉」, 
+   第56回流体力学講演会/第42回航空宇宙数値シミュレーション技術シンポジウム, カクイックス交流センター, 鹿児島県鹿児島市, 2024年7月, 3D07.
+
+7\. 萩原淳, **重田直賢**, Custodio Daniel, 木村成将, 山口月, 中村友祐, 佐宗章弘, 
+   「衝撃波の反射波が発生しない「マジックオリフィス」の実験特性」, 
+   第56回流体力学講演会/第42回航空宇宙数値シミュレーション技術シンポジウム, カクイックス交流センター, 鹿児島県鹿児島市, 2024年7月, 3D03.
+
+6\. Custodio Daniel, **重田直賢**, 萩原淳, 木村成将, 山口月, 福嶋岳, 中村友祐, 佐宗章弘, 
+   「多孔質側壁による衝撃波の変調」, 
+   第56回流体力学講演会/第42回航空宇宙数値シミュレーション技術シンポジウム, カクイックス交流センター, 鹿児島県鹿児島市, 2024年7月, 3D02.
+
+5\. Daniel Custodio, **重田直賢**, 萩原淳, 山口月, 木村成将, 中村友祐, 佐宗章弘, 福嶋岳, 
+   「衝撃波の多孔質側壁による変調」, 
+   2023年度衝撃波シンポジウム, 北九州国際会議場, 福岡県北九州市, 2024年3月, 3B2-4.
+
+4\. 萩原淳, **重田直賢**, 山口月, Daniel Custodio, 木村成将, 中村友祐, 佐宗章弘, 
+   「「マジックオリフィス」：衝撃波管端での無反射条件」, 
+   2023年度衝撃波シンポジウム, 北九州国際会議場, 福岡県北九州市, 2024年3月, 3B2-3.
+
+3\. 山口月, **重田直賢**, 木村成将, 萩原淳, Custodio Daniel, 中村友祐, 佐宗章弘, 福嶋岳, 
+   「「マジックフェンス」を通した衝撃波の緩和」, 
+   2023年度衝撃波シンポジウム, 北九州国際会議場, 福岡県北九州市, 2024年3月, 3B2-1.
+
+2\. 山口月, **重田直賢**, 福嶋岳, クストディオダニエル, 萩原淳, 中村友祐, 佐宗章弘, 
+   「衝撃波と「マジックフェンス」の干渉実験」, 
+   2022年度衝撃波シンポジウム, 産業技術総合研究所 つくば中央, 茨城県つくば市, 2023年3月, 1A1-1.
+
+1\. 福嶋岳, **重田直賢**, Custodio Daniel, 山口月, 萩原淳, 中村友祐, 佐宗章弘, 
+   「前方流速場nudgeによる衝撃波変調の実験」, 
+   第59回日本航空宇宙学会中部・関西支部合同秋季大会, オンライン, 2022年11月, SBM000035.
+
+### Poster
+
+1\. **重田直賢**, 
+   「収縮流路における準定常流れと衝撃波の干渉」, 
+   航空宇宙流体科学サマースクール2023, 鳥取大学, 鳥取県鳥取市, 2023年9月, (2).
+
+## Awards
+
+3\. **重田直賢**, 2024年度SICE（日本計測自動制御学会）優秀学生賞, 2025年3月
+
+2\. **重田直賢**, 若手BPA賞（Best Presentation Award）, 2024年度衝撃波シンポジウム, 2025年3月
+
+1\. **重田直賢**, 中部支部学生賞, 第61回日本航空宇宙学会中部・関西支部合同秋期大会, 2024年11月
+
+## Funding and scholarship
+
+5\. 日本学術振興会 特別研究員DC2 2026年4月―2028年3月
+
+4\. 公益財団法人 岩垂奨学会 奨学金 2025年
+
+3\. 東海国立大学機構 メイク・ニュー・スタンダード次世代研究事業（別プログラム採択により途中辞退）2025年4月―2026年3月
+
+2\. 名古屋大学 未来エレクトロニクス創成加速DII協働大学院プログラム 2023年4月―2028年3月
+
+1\. キーエンス財団「がんばれ！日本の大学生」応援給付金 2022年

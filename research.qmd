@@ -12,3 +12,19 @@ My research focuses on shock waves and compressible flows.
 - Shock-wave/boundary-layer interaction
 - Experimental fluid dynamics
 - Computational fluid dynamics
+
+
+## Research Topics
+
+### Shock Wave Attenuation
+
+Investigating the modulation and attenuation of shock waves through interactions with porous surfaces and complex geometries.
+
+### Shock-Turbulence Interaction
+
+Understanding how shock waves interact with turbulent flows through numerical simulations and experiments.
+
+### Shock-Wave/Boundary-Layer Interaction
+
+Exploring the physics and control of shock-wave/boundary-layer interactions in high-speed flows.
+

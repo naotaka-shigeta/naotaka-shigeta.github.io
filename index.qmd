@@ -14,11 +14,10 @@ toc: true
 ::: {.column width="68%"}
 
 
-**Doctoral Student, Nagoya University**
 
 My research focuses on shock waves and compressible flows, using both experimental and computational approaches.
 
-I am particularly interested in the interaction of shock waves with turbulence, boundary layers, and complex flow structures.
+I am particularly interested in shock-wave interactions with various flow fields, including uniform flows, turbulence, and boundary layers, as well as with structures such as porous media and orifices.
 
 [Google Scholar](https://scholar.google.co.jp/citations?user=K0Qp-fUAAAAJ&hl=ja){target="_blank"} |
 [ORCID](https://orcid.org/0009-0006-9675-3147){target="_blank"} |
@@ -32,19 +31,19 @@ I am particularly interested in the interaction of shock waves with turbulence, 
 
 
 
-## Research Topics
+## Education & Experience
 
-### Shock Wave Attenuation
+**2025–present**  
+Doctoral Student, Graduate School of Engineering, Nagoya University
 
-Investigating the modulation and attenuation of shock waves through interactions with porous surfaces and complex geometries.
+**20XX–2025**  
+M.E. in Aerospace Engineering, Nagoya University
 
-### Shock-Turbulence Interaction
+**20XX–20XX**  
+B.E. in Engineering, Nagoya University
 
-Understanding how shock waves interact with turbulent flows through numerical simulations and experiments.
-
-### Shock-Wave/Boundary-Layer Interaction
-
-Exploring the physics and control of shock-wave/boundary-layer interactions in high-speed flows.
+**20XX**  
+Visiting Researcher / Research Stay, University of XXX
 
 
 ## Current Activities
