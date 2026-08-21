@@ -36,3 +36,22 @@
   font-size: 0.75em;
   font-weight: bold;
 }
+
+/* Profile layout for smartphones */
+@media (max-width: 768px) {
+  .profile-section {
+    display: flex !important;
+    flex-direction: column !important;
+  }
+
+  .profile-section .column {
+    width: 100% !important;
+    flex-basis: 100% !important;
+    max-width: 100% !important;
+  }
+
+  .profile-section .profile-photo {
+    display: block;
+    margin: 0 auto 1.25rem auto;
+  }
+}
