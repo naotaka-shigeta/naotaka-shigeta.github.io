@@ -7,7 +7,7 @@ toc: true
 
 ::: {.column width="24%"}
 
-![](images/profile.jpg){width=150px}
+![](images/profile.jpg){width=150px .profile-photo}
 
 :::
 
@@ -23,7 +23,7 @@ I am particularly interested in shock-wave interactions with various flow fields
 [ORCID](https://orcid.org/0009-0006-9675-3147){target="_blank"} |
 [researchmap](https://researchmap.jp/naotaka.shigeta){target="_blank"} |
 [LinkedIn](https://www.linkedin.com/in/naotaka-shigeta-b9a237287/?locale=ja){target="_blank"} |
-[GitHub](https://github.com/naotaka-shigeta){target="_blank"}
+[Email](mailto:naotaka.shigeta.eng@gmail.com)
 
 :::
 

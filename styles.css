@@ -27,3 +27,7 @@
   object-fit: contain;
   vertical-align: middle;
 }
+
+.profile-photo {
+  border-radius: 12px;
+}

@@ -8,7 +8,10 @@ My research focuses on shock waves and compressible flows.
 
 ### Shock Wave Attenuation
 
-Investigating the modulation and attenuation of shock waves through interactions with porous surfaces and complex geometries.
+Investigating the modulation and attenuation of shock waves through interactions with:
+
+- **Flows:** three-dimensional jets and uniform flows aligned with the direction of shock propagation
+- **Structures:** porous media and orifices
 
 ### Shock-Turbulence Interaction
 
@@ -16,5 +19,5 @@ Understanding how shock waves interact with turbulent flows through numerical si
 
 ### Shock-Wave/Boundary-Layer Interaction
 
-Exploring the physics and control of shock-wave/boundary-layer interactions in high-speed flows.
+Exploring the physics and control of shock-wave/boundary-layer interactions in the presence of wall roughness.
 
