@@ -11,8 +11,8 @@ website:
         text: Research
       - href: publications.qmd
         text: Publications
-      - href: about.qmd
-        text: About
+      - href: beyond-research.qmd
+        text: Beyond Research
     right:
       - icon: github
         href: https://github.com/naotaka-shigeta

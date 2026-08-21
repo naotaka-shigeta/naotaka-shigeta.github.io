@@ -31,27 +31,23 @@ I am particularly interested in shock-wave interactions with various flow fields
 
 
 
-## Education & Experience
+## Education & Research Experience
 
-**2025–present**  
-Doctoral Student, Graduate School of Engineering, Nagoya University
+**Apr. 2025–Present**  
+Ph.D. Student in Aerospace Engineering, Graduate School of Engineering, Nagoya University
 
-**20XX–2025**  
-M.E. in Aerospace Engineering, Nagoya University
+**Aug. 2025–Jan. 2026**  
+Visiting Student, Department of Engineering, University of Cambridge, UK
 
-**20XX–20XX**  
-B.E. in Engineering, Nagoya University
+**Apr. 2023–Mar. 2025**  
+M.E. in Aerospace Engineering, Graduate School of Engineering, Nagoya University
 
-**20XX**  
-Visiting Researcher / Research Stay, University of XXX
-
-
-## Current Activities
-
-I am currently working on experimental and computational studies of compressible flows, with a particular focus on shock-wave interactions.
+**Apr. 2019–Mar. 2023**  
+B.E. in Mechanical and Aerospace Engineering, School of Engineering, Nagoya University
 
 
 ## Latest Updates
 
-- Research website launched.
-- Research projects and publications will be added progressively.
+- **Aug. 2026** — Personal website launched.
+- **Jan. 2026** — Completed a research stay at the University of Cambridge.
+- **Jul. 2025** — A journal paper was accepted in *Shock Waves*.

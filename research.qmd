@@ -4,16 +4,6 @@ title: "Research"
 
 My research focuses on shock waves and compressible flows.
 
-## Research Interests
-
-- Shock waves
-- Compressible flow
-- Shock–turbulence interaction
-- Shock-wave/boundary-layer interaction
-- Experimental fluid dynamics
-- Computational fluid dynamics
-
-
 ## Research Topics
 
 ### Shock Wave Attenuation
