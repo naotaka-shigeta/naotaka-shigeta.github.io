@@ -16,9 +16,9 @@
   {
     "objectID": "running/log.html",
     "href": "running/log.html",
-    "title": "Race & Training Log",
+    "title": "Race Log",
     "section": "",
-    "text": "← Track & Field\nTraining logs, race reports, and personal notes will be posted here."
+    "text": "← Track & Field\nRace reports and personal notes will be posted here."
   },
   {
     "objectID": "research.html",
@@ -35,32 +35,32 @@
     "text": "Research Topics\n\nShock Wave Attenuation\nInvestigating the modulation and attenuation of shock waves through interactions with:\n\nFlows: three-dimensional jets and uniform flows aligned with the direction of shock propagation\nStructures: porous media and orifices\n\n\n\nShock-Turbulence Interaction\nUnderstanding how shock waves interact with turbulent flows through numerical simulations and experiments.\n\n\nShock-Wave/Boundary-Layer Interaction\nExploring the physics and control of shock-wave/boundary-layer interactions in the presence of wall roughness."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Naotaka Shigeta",
+    "objectID": "link.html",
+    "href": "link.html",
+    "title": "Links",
     "section": "",
-    "text": "My research focuses on shock waves and compressible flows, using both experimental and computational approaches.\nI am particularly interested in shock-wave interactions with various flow fields, including uniform flows, turbulence, and boundary layers, as well as with structures such as porous media and orifices.\nGoogle Scholar | ORCID | researchmap | LinkedIn | Email"
+    "text": "名古屋大学\n名古屋大学 航空宇宙工学専攻\n未来エレクトロニクス創成加速DII協働大学院プログラム"
   },
   {
-    "objectID": "index.html#naotaka-shigeta-重田-直賢",
-    "href": "index.html#naotaka-shigeta-重田-直賢",
-    "title": "Naotaka Shigeta",
+    "objectID": "link.html#nagoya-university",
+    "href": "link.html#nagoya-university",
+    "title": "Links",
     "section": "",
-    "text": "My research focuses on shock waves and compressible flows, using both experimental and computational approaches.\nI am particularly interested in shock-wave interactions with various flow fields, including uniform flows, turbulence, and boundary layers, as well as with structures such as porous media and orifices.\nGoogle Scholar | ORCID | researchmap | LinkedIn | Email"
+    "text": "名古屋大学\n名古屋大学 航空宇宙工学専攻\n未来エレクトロニクス創成加速DII協働大学院プログラム"
   },
   {
-    "objectID": "index.html#education-research-experience",
-    "href": "index.html#education-research-experience",
-    "title": "Naotaka Shigeta",
-    "section": "Education & Research Experience",
-    "text": "Education & Research Experience\nApr. 2025–Present\nPh.D. Student in Aerospace Engineering, Graduate School of Engineering, Nagoya University\nAug. 2025–Jan. 2026\nVisiting Student, Department of Engineering, University of Cambridge, UK\nApr. 2023–Mar. 2025\nM.E. in Aerospace Engineering, Graduate School of Engineering, Nagoya University\nApr. 2019–Mar. 2023\nB.E. in Mechanical and Aerospace Engineering, School of Engineering, Nagoya University"
+    "objectID": "link.html#research-groups",
+    "href": "link.html#research-groups",
+    "title": "Links",
+    "section": "Research Groups",
+    "text": "Research Groups\n\n名古屋大学 流体力学研究グループ"
   },
   {
-    "objectID": "index.html#latest-updates",
-    "href": "index.html#latest-updates",
-    "title": "Naotaka Shigeta",
-    "section": "Latest Updates",
-    "text": "Latest Updates\n\nAug. 2026 — Personal website launched.\nJan. 2026 — Completed a research stay at the University of Cambridge.\nJul. 2025 — A journal paper was accepted in Shock Waves."
+    "objectID": "link.html#track-field",
+    "href": "link.html#track-field",
+    "title": "Links",
+    "section": "Track & Field",
+    "text": "Track & Field\n\n名古屋大学 陸上競技部\n名古屋大学 陸上競技部 ブログサイト"
   },
   {
     "objectID": "beyond-research.html",
@@ -91,11 +91,32 @@
     "text": "Tips & Notes\nTechnical notes, useful information, and things I have learned through research and daily work."
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blog",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Naotaka Shigeta",
     "section": "",
-    "text": "Research notes and occasional personal posts will be published here."
+    "text": "My research focuses on shock waves and compressible flows, using both experimental and computational approaches.\nI am particularly interested in shock-wave interactions with various flow fields, including uniform flows, turbulence, and boundary layers, as well as with structures such as porous media and orifices.\nGoogle Scholar | ORCID | researchmap | LinkedIn | Email"
+  },
+  {
+    "objectID": "index.html#naotaka-shigeta-重田-直賢",
+    "href": "index.html#naotaka-shigeta-重田-直賢",
+    "title": "Naotaka Shigeta",
+    "section": "",
+    "text": "My research focuses on shock waves and compressible flows, using both experimental and computational approaches.\nI am particularly interested in shock-wave interactions with various flow fields, including uniform flows, turbulence, and boundary layers, as well as with structures such as porous media and orifices.\nGoogle Scholar | ORCID | researchmap | LinkedIn | Email"
+  },
+  {
+    "objectID": "index.html#education-research-experience",
+    "href": "index.html#education-research-experience",
+    "title": "Naotaka Shigeta",
+    "section": "Education & Research Experience",
+    "text": "Education & Research Experience\nApr. 2025–Present\nPh.D. Student in Aerospace Engineering, Graduate School of Engineering, Nagoya University\nAug. 2025–Jan. 2026\nVisiting Student, Department of Engineering, University of Cambridge, UK\nApr. 2023–Mar. 2025\nM.E. in Aerospace Engineering, Graduate School of Engineering, Nagoya University\nApr. 2019–Mar. 2023\nB.E. in Mechanical and Aerospace Engineering, School of Engineering, Nagoya University"
+  },
+  {
+    "objectID": "index.html#latest-updates",
+    "href": "index.html#latest-updates",
+    "title": "Naotaka Shigeta",
+    "section": "Latest Updates",
+    "text": "Latest Updates\n\nAug. 2026 — Personal website launched.\nJan. 2026 — Completed a research stay at the University of Cambridge.\nJul. 2025 — A journal paper was accepted in Shock Waves."
   },
   {
     "objectID": "publications.html",
@@ -123,7 +144,7 @@
     "href": "publications.html#conference-presentations-domestic",
     "title": "Publications",
     "section": "Conference Presentations (Domestic)",
-    "text": "Conference Presentations (Domestic)\n\nFirst Author\n7. 重田直賢, 永田貴之，野々村拓, 「主流超音速下における格子乱流生成に関するLESによる検討」, 第58回流体力学講演会/第44回航空宇宙数値シミュレーション技術シンポジウム, とりぎん文化会館, 鳥取県鳥取市, 2026年6月.\n6. 重田直賢, K. Ramachandra, H. Babinsky, 「圧縮コーナーによる衝撃波・境界層干渉における表面粗さの剥離挙動への影響」, 2025年度衝撃波シンポジウム, 名古屋大学 東山キャンパス, 愛知県名古屋市, 2026年3月.\n5. 重田直賢, 萩原淳, Custodio Daniel, 木村成将, 山口月, 福嶋岳, 中村友祐, 佐宗章弘, 「Chester問題の数値的・実験的検証」, 2024年度衝撃波シンポジウム, 東北大学 片平さくらホール・流体科学研究所, 宮城県仙台市, 2025年3月.\n4. 重田直賢, 萩原淳, クストディオダニエル, 木村成将, 旭拓海, 福嶋岳, 中村友祐, 佐宗章弘, 「Two-Diaphragm Shock Tubeを利用した衝撃波－前方誘起流れ干渉実験」, 第61回日本航空宇宙学会中部・関西支部合同秋期大会, 名城大学 天白キャンパス, 愛知県名古屋市, 2024年11月.\n3. 重田直賢, 萩原淳, Custodio Daniel, 木村成将, 山口月, 福嶋岳, 中村友祐, 佐宗章弘, 「2つの独立破膜機構を有する衝撃波管を利用した衝撃波-準定常前方流れ干渉実験」, 第56回流体力学講演会/第42回航空宇宙数値シミュレーション技術シンポジウム, カクイックス交流センター, 鹿児島県鹿児島市, 2024年7月.\n2. 重田直賢, Daniel Custodio, 萩原淳, 山口月, 木村成将, 福嶋岳, 中村友祐, 佐宗章弘, 「収縮流路内における前方準定常流れによる衝撃波の変調」, 2023年度衝撃波シンポジウム, 北九州国際会議場, 福岡県北九州市, 2024年3月.\n1. 重田直賢, 福嶋岳, 山口月, クストディオダニエル, 萩原淳, 中村友祐, 佐宗章弘, 「前方流速場nudgeと衝撃波の干渉実験」, 2022年度衝撃波シンポジウム, 産業技術総合研究所 つくば中央, 茨城県つくば市, 2023年3月.\n\n\nCoauthor\n12. 永田貴之，佐藤 友理, 堀内 琉敏, 重田直賢, 野々村拓, 「名古屋大学火星大気風洞2.0の仕様と構築状況について」, 第58回流体力学講演会/第44回航空宇宙数値シミュレーション技術シンポジウム, とりぎん文化会館, 鳥取県鳥取市, 2026年6月, 3C12\n11. 佐藤 友理, 重田直賢, 堀内 琉敏, 永田貴之，野々村拓, 「火星大気風洞2.0における試験時間測定」, 第58回流体力学講演会/第44回航空宇宙数値シミュレーション技術シンポジウム, とりぎん文化会館, 鳥取県鳥取市, 2026年6月, 2E05\n10. 木村成将, 重田直賢, 萩原淳, Custodio Daniel, 中村友祐, 佐宗章弘, 「前方誘起流れとの干渉による衝撃波の変調」, 2024年度衝撃波シンポジウム, 東北大学 片平さくらホール・流体科学研究所, 宮城県仙台市, 2025年3月, 2A1-3,\n9. Custodio Daniel, 重田直賢, 萩原淳, 木村成将, 中村友祐, 佐宗章弘, 「多孔質側壁による衝撃波減衰における多孔質壁厚さおよびセル密度の影響」, 2024年度衝撃波シンポジウム, 東北大学 片平さくらホール・流体科学研究所, 宮城県仙台市, 2025年3月, 2A1-2\n8. 木村成将, 重田直賢, クストディオダニエル, 萩原淳, 山口月, 中村友祐, 佐宗章弘, 「衝撃波と前方順方向噴流との干渉」, 第56回流体力学講演会/第42回航空宇宙数値シミュレーション技術シンポジウム, カクイックス交流センター, 鹿児島県鹿児島市, 2024年7月, 3D07.\n7. 萩原淳, 重田直賢, Custodio Daniel, 木村成将, 山口月, 中村友祐, 佐宗章弘, 「衝撃波の反射波が発生しない「マジックオリフィス」の実験特性」, 第56回流体力学講演会/第42回航空宇宙数値シミュレーション技術シンポジウム, カクイックス交流センター, 鹿児島県鹿児島市, 2024年7月, 3D03.\n6. Custodio Daniel, 重田直賢, 萩原淳, 木村成将, 山口月, 福嶋岳, 中村友祐, 佐宗章弘, 「多孔質側壁による衝撃波の変調」, 第56回流体力学講演会/第42回航空宇宙数値シミュレーション技術シンポジウム, カクイックス交流センター, 鹿児島県鹿児島市, 2024年7月, 3D02.\n5. Daniel Custodio, 重田直賢, 萩原淳, 山口月, 木村成将, 中村友祐, 佐宗章弘, 福嶋岳, 「衝撃波の多孔質側壁による変調」, 2023年度衝撃波シンポジウム, 北九州国際会議場, 福岡県北九州市, 2024年3月, 3B2-4.\n4. 萩原淳, 重田直賢, 山口月, Daniel Custodio, 木村成将, 中村友祐, 佐宗章弘, 「「マジックオリフィス」：衝撃波管端での無反射条件」, 2023年度衝撃波シンポジウム, 北九州国際会議場, 福岡県北九州市, 2024年3月, 3B2-3.\n3. 山口月, 重田直賢, 木村成将, 萩原淳, Custodio Daniel, 中村友祐, 佐宗章弘, 福嶋岳, 「「マジックフェンス」を通した衝撃波の緩和」, 2023年度衝撃波シンポジウム, 北九州国際会議場, 福岡県北九州市, 2024年3月, 3B2-1.\n2. 山口月, 重田直賢, 福嶋岳, クストディオダニエル, 萩原淳, 中村友祐, 佐宗章弘, 「衝撃波と「マジックフェンス」の干渉実験」, 2022年度衝撃波シンポジウム, 産業技術総合研究所 つくば中央, 茨城県つくば市, 2023年3月, 1A1-1.\n1. 福嶋岳, 重田直賢, Custodio Daniel, 山口月, 萩原淳, 中村友祐, 佐宗章弘, 「前方流速場nudgeによる衝撃波変調の実験」, 第59回日本航空宇宙学会中部・関西支部合同秋季大会, オンライン, 2022年11月, SBM000035.\n\n\nPoster\n1. 重田直賢, 「収縮流路における準定常流れと衝撃波の干渉」, 航空宇宙流体科学サマースクール2023, 鳥取大学, 鳥取県鳥取市, 2023年9月, (2)."
+    "text": "Conference Presentations (Domestic)\n\nFirst Author\n7. 重田直賢, 永田貴之，野々村拓, 「主流超音速下における格子乱流生成に関するLESによる検討」, 第58回流体力学講演会/第44回航空宇宙数値シミュレーション技術シンポジウム, とりぎん文化会館, 鳥取県鳥取市, 2026年6月.\n6. 重田直賢, K. Ramachandra, H. Babinsky, 「圧縮コーナーによる衝撃波・境界層干渉における表面粗さの剥離挙動への影響」, 2025年度衝撃波シンポジウム, 名古屋大学 東山キャンパス, 愛知県名古屋市, 2026年3月.\n5. 重田直賢, 萩原淳, Custodio Daniel, 木村成将, 山口月, 福嶋岳, 中村友祐, 佐宗章弘, 「Chester問題の数値的・実験的検証」, 2024年度衝撃波シンポジウム, 東北大学 片平さくらホール・流体科学研究所, 宮城県仙台市, 2025年3月.\n4. 重田直賢, 萩原淳, クストディオダニエル, 木村成将, 旭拓海, 福嶋岳, 中村友祐, 佐宗章弘, 「Two-Diaphragm Shock Tubeを利用した衝撃波－前方誘起流れ干渉実験」, 第61回日本航空宇宙学会中部・関西支部合同秋期大会, 名城大学 天白キャンパス, 愛知県名古屋市, 2024年11月.\n3. 重田直賢, 萩原淳, Custodio Daniel, 木村成将, 山口月, 福嶋岳, 中村友祐, 佐宗章弘, 「2つの独立破膜機構を有する衝撃波管を利用した衝撃波-準定常前方流れ干渉実験」, 第56回流体力学講演会/第42回航空宇宙数値シミュレーション技術シンポジウム, カクイックス交流センター, 鹿児島県鹿児島市, 2024年7月.\n2. 重田直賢, Daniel Custodio, 萩原淳, 山口月, 木村成将, 福嶋岳, 中村友祐, 佐宗章弘, 「収縮流路内における前方準定常流れによる衝撃波の変調」, 2023年度衝撃波シンポジウム, 北九州国際会議場, 福岡県北九州市, 2024年3月.\n1. 重田直賢, 福嶋岳, 山口月, クストディオダニエル, 萩原淳, 中村友祐, 佐宗章弘, 「前方流速場nudgeと衝撃波の干渉実験」, 2022年度衝撃波シンポジウム, 産業技術総合研究所 つくば中央, 茨城県つくば市, 2023年3月.\n\n\nCoauthor\n12. 永田貴之, 佐藤 友理, 堀内 琉敏, 重田直賢, 野々村拓, 「名古屋大学火星大気風洞2.0の仕様と構築状況について」, 第58回流体力学講演会/第44回航空宇宙数値シミュレーション技術シンポジウム, とりぎん文化会館, 鳥取県鳥取市, 2026年6月, 3C12\n11. 佐藤 友理, 重田直賢, 堀内 琉敏, 永田貴之，野々村拓, 「火星大気風洞2.0における試験時間測定」, 第58回流体力学講演会/第44回航空宇宙数値シミュレーション技術シンポジウム, とりぎん文化会館, 鳥取県鳥取市, 2026年6月, 2E05\n10. 木村成将, 重田直賢, 萩原淳, Custodio Daniel, 中村友祐, 佐宗章弘, 「前方誘起流れとの干渉による衝撃波の変調」, 2024年度衝撃波シンポジウム, 東北大学 片平さくらホール・流体科学研究所, 宮城県仙台市, 2025年3月, 2A1-3,\n9. Custodio Daniel, 重田直賢, 萩原淳, 木村成将, 中村友祐, 佐宗章弘, 「多孔質側壁による衝撃波減衰における多孔質壁厚さおよびセル密度の影響」, 2024年度衝撃波シンポジウム, 東北大学 片平さくらホール・流体科学研究所, 宮城県仙台市, 2025年3月, 2A1-2\n8. 木村成将, 重田直賢, クストディオダニエル, 萩原淳, 山口月, 中村友祐, 佐宗章弘, 「衝撃波と前方順方向噴流との干渉」, 第56回流体力学講演会/第42回航空宇宙数値シミュレーション技術シンポジウム, カクイックス交流センター, 鹿児島県鹿児島市, 2024年7月, 3D07.\n7. 萩原淳, 重田直賢, Custodio Daniel, 木村成将, 山口月, 中村友祐, 佐宗章弘, 「衝撃波の反射波が発生しない「マジックオリフィス」の実験特性」, 第56回流体力学講演会/第42回航空宇宙数値シミュレーション技術シンポジウム, カクイックス交流センター, 鹿児島県鹿児島市, 2024年7月, 3D03.\n6. Custodio Daniel, 重田直賢, 萩原淳, 木村成将, 山口月, 福嶋岳, 中村友祐, 佐宗章弘, 「多孔質側壁による衝撃波の変調」, 第56回流体力学講演会/第42回航空宇宙数値シミュレーション技術シンポジウム, カクイックス交流センター, 鹿児島県鹿児島市, 2024年7月, 3D02.\n5. Daniel Custodio, 重田直賢, 萩原淳, 山口月, 木村成将, 中村友祐, 佐宗章弘, 福嶋岳, 「衝撃波の多孔質側壁による変調」, 2023年度衝撃波シンポジウム, 北九州国際会議場, 福岡県北九州市, 2024年3月, 3B2-4.\n4. 萩原淳, 重田直賢, 山口月, Daniel Custodio, 木村成将, 中村友祐, 佐宗章弘, 「「マジックオリフィス」：衝撃波管端での無反射条件」, 2023年度衝撃波シンポジウム, 北九州国際会議場, 福岡県北九州市, 2024年3月, 3B2-3.\n3. 山口月, 重田直賢, 木村成将, 萩原淳, Custodio Daniel, 中村友祐, 佐宗章弘, 福嶋岳, 「「マジックフェンス」を通した衝撃波の緩和」, 2023年度衝撃波シンポジウム, 北九州国際会議場, 福岡県北九州市, 2024年3月, 3B2-1.\n2. 山口月, 重田直賢, 福嶋岳, クストディオダニエル, 萩原淳, 中村友祐, 佐宗章弘, 「衝撃波と「マジックフェンス」の干渉実験」, 2022年度衝撃波シンポジウム, 産業技術総合研究所 つくば中央, 茨城県つくば市, 2023年3月, 1A1-1.\n1. 福嶋岳, 重田直賢, Custodio Daniel, 山口月, 萩原淳, 中村友祐, 佐宗章弘, 「前方流速場nudgeによる衝撃波変調の実験」, 第59回日本航空宇宙学会中部・関西支部合同秋季大会, オンライン, 2022年11月, SBM000035.\n\n\nPoster\n1. 重田直賢, 「収縮流路における準定常流れと衝撃波の干渉」, 航空宇宙流体科学サマースクール2023, 鳥取大学, 鳥取県鳥取市, 2023年9月, (2)."
   },
   {
     "objectID": "publications.html#awards",
@@ -144,7 +165,7 @@
     "href": "running/index.html",
     "title": "Track & Field",
     "section": "",
-    "text": "Comming soon: This page will contain information about my track and field activities, including training logs, race results, and personal bests.\n\nRecords | Training | Race & Training Log\n\nBack to Research Site"
+    "text": "Comming soon: This page will contain information about my track and field activities, including training logs, race results, and personal bests.\n\nRecords | Race Log | Training\n\nBack to Research Site"
   },
   {
     "objectID": "running/records.html",
@@ -158,6 +179,6 @@
     "href": "running/records.html#personal-bests",
     "title": "Records",
     "section": "Personal Bests",
-    "text": "Personal Bests\n\n\n\nEvent\nRecord\nDate\nCompetition\n\n\n\n\n100 m\n-\n-\n-\n\n\n200 m\n-\n-\n-\n\n\n400 m\n-\n-\n-"
+    "text": "Personal Bests\n\n\n\n種目\n記録\n日\n大会名\n　会場\n\n\n\n\n800 m\n1’57”79\n2023.7.1\n名阪戦\n服部緑地\n\n\n1500 m\n3’53”50\n2022.7.30\n七大戦\n宮城野原\n\n\n5000 m\n14’23”61\n2022.11.12\n京都陸協記録会\n西京極補助\n\n\n10000 m\n30’01”22\n2023.11.19\n記録挑戦競技会\n国立\n\n\nHalf Marathon\n1:05’34\n2022.3.13\n日本学生ハーフマラソン\n立川"
   }
 ]
