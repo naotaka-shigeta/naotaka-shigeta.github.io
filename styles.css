@@ -37,41 +37,43 @@
   font-weight: bold;
 }
 
+
+/* Profile section: PC */
 .profile-section {
-  display: flex;
-  align-items: flex-start;
-  gap: 2rem;
+  display: grid;
+  grid-template-columns: 150px minmax(0, 1fr);
+  column-gap: 2rem;
+  align-items: start;
 }
 
 .profile-photo-area {
-  flex: 0 0 24%;
+  width: 150px;
 }
 
 .profile-text-area {
-  flex: 1;
   min-width: 0;
 }
 
 .profile-photo {
-  max-width: 150px;
-  width: 100%;
+  display: block;
+  width: 150px;
   height: auto;
   border-radius: 12px;
 }
 
-/* Smartphone */
-@media (max-width: 768px) {
+/* Profile section: smartphone */
+@media (max-width: 576px) {
   .profile-section {
-    display: block;
+    grid-template-columns: 1fr;
+    row-gap: 1rem;
   }
 
-  .profile-photo-area,
-  .profile-text-area {
+  .profile-photo-area {
     width: 100%;
   }
 
   .profile-photo {
-    display: block;
-    margin: 0 auto 1.5rem auto;
+    margin-left: auto;
+    margin-right: auto;
   }
 }
