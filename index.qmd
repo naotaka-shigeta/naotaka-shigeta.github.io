@@ -3,17 +3,15 @@ toc: true
 ---
 ## Naotaka Shigeta <span class="jp-name">(重田 直賢)</span>
 
-:::: {.columns .profile-section}
+:::: {.profile-section}
 
-::: {.column width="24%"}
+::: {.profile-photo-area}
 
 ![](images/profile.jpg){width=150px .profile-photo}
 
 :::
 
-::: {.column width="68%"}
-
-
+::: {.profile-text-area}
 
 My research focuses on shock waves and compressible flows, using both experimental and computational approaches.
 

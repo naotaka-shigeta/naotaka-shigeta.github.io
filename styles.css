@@ -37,21 +37,41 @@
   font-weight: bold;
 }
 
-/* Profile layout for smartphones */
+.profile-section {
+  display: flex;
+  align-items: flex-start;
+  gap: 2rem;
+}
+
+.profile-photo-area {
+  flex: 0 0 24%;
+}
+
+.profile-text-area {
+  flex: 1;
+  min-width: 0;
+}
+
+.profile-photo {
+  max-width: 150px;
+  width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+
+/* Smartphone */
 @media (max-width: 768px) {
   .profile-section {
-    display: flex !important;
-    flex-direction: column !important;
-  }
-
-  .profile-section .column {
-    width: 100% !important;
-    flex-basis: 100% !important;
-    max-width: 100% !important;
-  }
-
-  .profile-section .profile-photo {
     display: block;
-    margin: 0 auto 1.25rem auto;
+  }
+
+  .profile-photo-area,
+  .profile-text-area {
+    width: 100%;
+  }
+
+  .profile-photo {
+    display: block;
+    margin: 0 auto 1.5rem auto;
   }
 }
