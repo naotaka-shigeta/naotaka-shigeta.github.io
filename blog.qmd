@@ -1,5 +1,0 @@
----
-title: "Blog"
----
-
-Research notes and occasional personal posts will be published here.

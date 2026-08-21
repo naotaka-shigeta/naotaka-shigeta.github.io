@@ -13,6 +13,8 @@ website:
         text: Publications
       - href: beyond-research.qmd
         text: Beyond Research
+      - href: link.qmd
+        text: Links
     right:
       - icon: github
         href: https://github.com/naotaka-shigeta

@@ -6,7 +6,7 @@ Comming soon: This page will contain information about my track and field activi
 
 ---
 
-[Records](records.qmd) | [Training](training.qmd) | [Race & Training Log](log.qmd)
+[Records](records.qmd)  | [Race Log](log.qmd) | [Training](training.qmd)
 
 ---
 
