@@ -1,7 +1,7 @@
 ---
 toc: true
 ---
-## Naotaka Shigeta
+## Naotaka Shigeta <span class="jp-name">(重田 直賢)</span>
 
 :::: {.columns}
 
