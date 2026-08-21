@@ -3,7 +3,7 @@ toc: true
 ---
 ## Naotaka Shigeta <span class="jp-name">(重田 直賢)</span>
 
-:::: {.columns}
+:::: {.columns .profile-section}
 
 ::: {.column width="24%"}
 
