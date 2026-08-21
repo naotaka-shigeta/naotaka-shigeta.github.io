@@ -31,3 +31,8 @@
 .profile-photo {
   border-radius: 12px;
 }
+
+.jp-name {
+  font-size: 0.75em;
+  font-weight: bold;
+}
