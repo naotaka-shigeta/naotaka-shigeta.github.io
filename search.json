@@ -1,122 +1,38 @@
 [
   {
-    "objectID": "running/training.html",
-    "href": "running/training.html",
+    "objectID": "running/training/index.html",
+    "href": "running/training/index.html",
     "title": "Training",
     "section": "",
     "text": "← Track & Field"
   },
   {
-    "objectID": "running/training.html#training-menu",
-    "href": "running/training.html#training-menu",
+    "objectID": "running/training/index.html#training-archive",
+    "href": "running/training/index.html#training-archive",
     "title": "Training",
-    "section": "Training Menu",
-    "text": "Training Menu\nTraining programs and notes will be collected here."
+    "section": "Training Archive",
+    "text": "Training Archive\n\n2015\n2016\n\n2017\n2018\n2019\n2020\n2021\n2022\n2023\n2024\n2025\n2026"
   },
   {
-    "objectID": "running/log.html",
-    "href": "running/log.html",
-    "title": "Race Log",
+    "objectID": "running/records.html",
+    "href": "running/records.html",
+    "title": "Records",
     "section": "",
-    "text": "← Track & Field\nRace reports and personal notes will be posted here."
+    "text": "← Track & Field"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "running/records.html#personal-bests",
+    "href": "running/records.html#personal-bests",
+    "title": "Records",
+    "section": "Personal Bests",
+    "text": "Personal Bests\n\n\n\n種目\n記録\n日\n大会名\n　会場\n\n\n\n\n800 m\n1’57”79\n2023.7.1\n名阪戦\n服部緑地\n\n\n1500 m\n3’53”50\n2022.7.30\n七大戦\n宮城野原\n\n\n5000 m\n14’23”61\n2022.11.12\n京都陸協記録会\n西京極補助\n\n\n10000 m\n30’01”22\n2023.11.19\n記録挑戦競技会\n国立\n\n\nHalf Marathon\n1:05’34\n2022.3.13\n日本学生ハーフマラソン\n立川"
+  },
+  {
+    "objectID": "running/index.html",
+    "href": "running/index.html",
+    "title": "Track & Field",
     "section": "",
-    "text": "My research focuses on shock waves and compressible flows."
-  },
-  {
-    "objectID": "research.html#research-topics",
-    "href": "research.html#research-topics",
-    "title": "Research",
-    "section": "Research Topics",
-    "text": "Research Topics\n\nShock Wave Attenuation\nInvestigating the modulation and attenuation of shock waves through interactions with:\n\nFlows: three-dimensional jets and uniform flows aligned with the direction of shock propagation\nStructures: porous media and orifices\n\n\n\nShock-Turbulence Interaction\nUnderstanding how shock waves interact with turbulent flows through numerical simulations and experiments.\n\n\nShock-Wave/Boundary-Layer Interaction\nExploring the physics and control of shock-wave/boundary-layer interactions in the presence of wall roughness."
-  },
-  {
-    "objectID": "link.html",
-    "href": "link.html",
-    "title": "Links",
-    "section": "",
-    "text": "名古屋大学\n名古屋大学 航空宇宙工学専攻\n未来エレクトロニクス創成加速DII協働大学院プログラム"
-  },
-  {
-    "objectID": "link.html#nagoya-university",
-    "href": "link.html#nagoya-university",
-    "title": "Links",
-    "section": "",
-    "text": "名古屋大学\n名古屋大学 航空宇宙工学専攻\n未来エレクトロニクス創成加速DII協働大学院プログラム"
-  },
-  {
-    "objectID": "link.html#research-groups",
-    "href": "link.html#research-groups",
-    "title": "Links",
-    "section": "Research Groups",
-    "text": "Research Groups\n\n名古屋大学 流体力学研究グループ"
-  },
-  {
-    "objectID": "link.html#track-field",
-    "href": "link.html#track-field",
-    "title": "Links",
-    "section": "Track & Field",
-    "text": "Track & Field\n\n名古屋大学 陸上競技部\n名古屋大学 陸上競技部 ブログサイト"
-  },
-  {
-    "objectID": "beyond-research.html",
-    "href": "beyond-research.html",
-    "title": "Beyond Research",
-    "section": "",
-    "text": "I have been involved in track and field for many years.\nTrack & Field →"
-  },
-  {
-    "objectID": "beyond-research.html#track-field",
-    "href": "beyond-research.html#track-field",
-    "title": "Beyond Research",
-    "section": "",
-    "text": "I have been involved in track and field for many years.\nTrack & Field →"
-  },
-  {
-    "objectID": "beyond-research.html#travel-photos",
-    "href": "beyond-research.html#travel-photos",
-    "title": "Beyond Research",
-    "section": "Travel & Photos",
-    "text": "Travel & Photos\nPhotos and notes from conferences, research visits, and travels."
-  },
-  {
-    "objectID": "beyond-research.html#tips-notes",
-    "href": "beyond-research.html#tips-notes",
-    "title": "Beyond Research",
-    "section": "Tips & Notes",
-    "text": "Tips & Notes\nTechnical notes, useful information, and things I have learned through research and daily work."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Naotaka Shigeta",
-    "section": "",
-    "text": "My research focuses on shock waves and compressible flows, using both experimental and computational approaches.\nI am particularly interested in shock-wave interactions with various flow fields, including uniform flows, turbulence, and boundary layers, as well as with structures such as porous media and orifices.\nGoogle Scholar | ORCID | researchmap | LinkedIn | Email"
-  },
-  {
-    "objectID": "index.html#naotaka-shigeta-重田-直賢",
-    "href": "index.html#naotaka-shigeta-重田-直賢",
-    "title": "Naotaka Shigeta",
-    "section": "",
-    "text": "My research focuses on shock waves and compressible flows, using both experimental and computational approaches.\nI am particularly interested in shock-wave interactions with various flow fields, including uniform flows, turbulence, and boundary layers, as well as with structures such as porous media and orifices.\nGoogle Scholar | ORCID | researchmap | LinkedIn | Email"
-  },
-  {
-    "objectID": "index.html#education-research-experience",
-    "href": "index.html#education-research-experience",
-    "title": "Naotaka Shigeta",
-    "section": "Education & Research Experience",
-    "text": "Education & Research Experience\nApr. 2025–Present\nPh.D. Student in Aerospace Engineering, Graduate School of Engineering, Nagoya University\nAug. 2025–Jan. 2026\nVisiting Student, Department of Engineering, University of Cambridge, UK\nApr. 2023–Mar. 2025\nM.E. in Aerospace Engineering, Graduate School of Engineering, Nagoya University\nApr. 2019–Mar. 2023\nB.E. in Mechanical and Aerospace Engineering, School of Engineering, Nagoya University"
-  },
-  {
-    "objectID": "index.html#latest-updates",
-    "href": "index.html#latest-updates",
-    "title": "Naotaka Shigeta",
-    "section": "Latest Updates",
-    "text": "Latest Updates\n\nAug. 2026 — Personal website launched.\nJan. 2026 — Completed a research stay at the University of Cambridge.\nJul. 2025 — A journal paper was accepted in Shock Waves."
+    "text": "Comming soon: This page will contain information about my track and field activities, including training logs, race results, and personal bests.\n\nRecords | Race Log | Training\n\nBack to Research Site"
   },
   {
     "objectID": "publications.html",
@@ -161,24 +77,129 @@
     "text": "Funding and scholarship\n5. 日本学術振興会 特別研究員DC2 2026年4月―2028年3月\n4. 公益財団法人 岩垂奨学会 奨学金 2025年\n3. 東海国立大学機構 メイク・ニュー・スタンダード次世代研究事業（別プログラム採択により途中辞退）2025年4月―2026年3月\n2. 名古屋大学 未来エレクトロニクス創成加速DII協働大学院プログラム 2023年4月―2028年3月\n1. キーエンス財団「がんばれ！日本の大学生」応援給付金 2022年"
   },
   {
-    "objectID": "running/index.html",
-    "href": "running/index.html",
-    "title": "Track & Field",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Naotaka Shigeta",
     "section": "",
-    "text": "Comming soon: This page will contain information about my track and field activities, including training logs, race results, and personal bests.\n\nRecords | Race Log | Training\n\nBack to Research Site"
+    "text": "My research focuses on shock waves and compressible flows, using both experimental and computational approaches.\nI am particularly interested in shock-wave interactions with various flow fields, including uniform flows, turbulence, and boundary layers, as well as with structures such as porous media and orifices.\nGoogle Scholar | ORCID | researchmap | LinkedIn | Email"
   },
   {
-    "objectID": "running/records.html",
-    "href": "running/records.html",
-    "title": "Records",
+    "objectID": "index.html#naotaka-shigeta-重田-直賢",
+    "href": "index.html#naotaka-shigeta-重田-直賢",
+    "title": "Naotaka Shigeta",
     "section": "",
-    "text": "← Track & Field"
+    "text": "My research focuses on shock waves and compressible flows, using both experimental and computational approaches.\nI am particularly interested in shock-wave interactions with various flow fields, including uniform flows, turbulence, and boundary layers, as well as with structures such as porous media and orifices.\nGoogle Scholar | ORCID | researchmap | LinkedIn | Email"
   },
   {
-    "objectID": "running/records.html#personal-bests",
-    "href": "running/records.html#personal-bests",
-    "title": "Records",
-    "section": "Personal Bests",
-    "text": "Personal Bests\n\n\n\n種目\n記録\n日\n大会名\n　会場\n\n\n\n\n800 m\n1’57”79\n2023.7.1\n名阪戦\n服部緑地\n\n\n1500 m\n3’53”50\n2022.7.30\n七大戦\n宮城野原\n\n\n5000 m\n14’23”61\n2022.11.12\n京都陸協記録会\n西京極補助\n\n\n10000 m\n30’01”22\n2023.11.19\n記録挑戦競技会\n国立\n\n\nHalf Marathon\n1:05’34\n2022.3.13\n日本学生ハーフマラソン\n立川"
+    "objectID": "index.html#education-research-experience",
+    "href": "index.html#education-research-experience",
+    "title": "Naotaka Shigeta",
+    "section": "Education & Research Experience",
+    "text": "Education & Research Experience\nApr. 2025–Present\nPh.D. Student in Aerospace Engineering, Graduate School of Engineering, Nagoya University\nAug. 2025–Jan. 2026\nVisiting Student, Department of Engineering, University of Cambridge, UK\nApr. 2023–Mar. 2025\nM.E. in Aerospace Engineering, Graduate School of Engineering, Nagoya University\nApr. 2019–Mar. 2023\nB.E. in Mechanical and Aerospace Engineering, School of Engineering, Nagoya University"
+  },
+  {
+    "objectID": "index.html#latest-updates",
+    "href": "index.html#latest-updates",
+    "title": "Naotaka Shigeta",
+    "section": "Latest Updates",
+    "text": "Latest Updates\n\nAug. 2026 — Personal website launched.\nJan. 2026 — Completed a research stay at the University of Cambridge.\nJul. 2025 — A journal paper was accepted in Shock Waves."
+  },
+  {
+    "objectID": "beyond-research.html",
+    "href": "beyond-research.html",
+    "title": "Beyond Research",
+    "section": "",
+    "text": "I have been involved in track and field for many years.\nTrack & Field →"
+  },
+  {
+    "objectID": "beyond-research.html#track-field",
+    "href": "beyond-research.html#track-field",
+    "title": "Beyond Research",
+    "section": "",
+    "text": "I have been involved in track and field for many years.\nTrack & Field →"
+  },
+  {
+    "objectID": "beyond-research.html#travel-photos",
+    "href": "beyond-research.html#travel-photos",
+    "title": "Beyond Research",
+    "section": "Travel & Photos",
+    "text": "Travel & Photos\nPhotos and notes from conferences, research visits, and travels."
+  },
+  {
+    "objectID": "beyond-research.html#tips-notes",
+    "href": "beyond-research.html#tips-notes",
+    "title": "Beyond Research",
+    "section": "Tips & Notes",
+    "text": "Tips & Notes\nTechnical notes, useful information, and things I have learned through research and daily work."
+  },
+  {
+    "objectID": "link.html",
+    "href": "link.html",
+    "title": "Links",
+    "section": "",
+    "text": "名古屋大学\n名古屋大学 航空宇宙工学専攻\n未来エレクトロニクス創成加速DII協働大学院プログラム"
+  },
+  {
+    "objectID": "link.html#nagoya-university",
+    "href": "link.html#nagoya-university",
+    "title": "Links",
+    "section": "",
+    "text": "名古屋大学\n名古屋大学 航空宇宙工学専攻\n未来エレクトロニクス創成加速DII協働大学院プログラム"
+  },
+  {
+    "objectID": "link.html#research-groups",
+    "href": "link.html#research-groups",
+    "title": "Links",
+    "section": "Research Groups",
+    "text": "Research Groups\n\n名古屋大学 流体力学研究グループ"
+  },
+  {
+    "objectID": "link.html#track-field",
+    "href": "link.html#track-field",
+    "title": "Links",
+    "section": "Track & Field",
+    "text": "Track & Field\n\n名古屋大学 陸上競技部\n名古屋大学 陸上競技部 ブログサイト"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research focuses on shock waves and compressible flows."
+  },
+  {
+    "objectID": "research.html#research-topics",
+    "href": "research.html#research-topics",
+    "title": "Research",
+    "section": "Research Topics",
+    "text": "Research Topics\n\nShock Wave Attenuation\nInvestigating the modulation and attenuation of shock waves through interactions with:\n\nFlows: three-dimensional jets and uniform flows aligned with the direction of shock propagation\nStructures: porous media and orifices\n\n\n\nShock-Turbulence Interaction\nUnderstanding how shock waves interact with turbulent flows through numerical simulations and experiments.\n\n\nShock-Wave/Boundary-Layer Interaction\nExploring the physics and control of shock-wave/boundary-layer interactions in the presence of wall roughness."
+  },
+  {
+    "objectID": "running/log.html",
+    "href": "running/log.html",
+    "title": "Race Log",
+    "section": "",
+    "text": "← Track & Field\nRace reports and personal notes will be posted here."
+  },
+  {
+    "objectID": "running/training/2022/11.html",
+    "href": "running/training/2022/11.html",
+    "title": "November 2022",
+    "section": "",
+    "text": "← 2022\n\n\n\n\n\n\n\n\n\nDate\nMenu\nDistance\nDiary\n\n\n\n\nNov. 6\n3000 m 8:43 / 2000 m 5:43 / 1000 m 2:55\n6.0 km\nView diary\n\n\nNov. 5\n1000 m + 600 m PM\n4.5 km\nView diary\n\n\nNov. 4\n15 km easy\n15.0 km\nView diary"
+  },
+  {
+    "objectID": "running/training/2022/index.html",
+    "href": "running/training/2022/index.html",
+    "title": "Training 2022",
+    "section": "",
+    "text": "January February March April May June July August September October November December\n\nBack to Training Archive"
+  },
+  {
+    "objectID": "running/training/2022/index.html#section",
+    "href": "running/training/2022/index.html#section",
+    "title": "Training 2022",
+    "section": "",
+    "text": "January February March April May June July August September October November December\n\nBack to Training Archive"
   }
 ]
