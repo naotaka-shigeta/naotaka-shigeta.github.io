@@ -15,5 +15,5 @@ toc: true
 
 ## Track & Field
 
-- [名古屋大学 陸上競技部](https://www.nutfc.com/)
-- [名古屋大学 陸上競技部 ブログサイト](https://blog.nutfc.com/)
+- [名古屋大学 陸上競技部](https://www.nutfc.com/){target="_blank"}
+- [名古屋大学 陸上競技部 ブログサイト](https://blog.nutfc.com/){target="_blank"}

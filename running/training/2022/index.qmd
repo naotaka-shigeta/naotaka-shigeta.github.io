@@ -1,0 +1,25 @@
+---
+title: "Training 2022"
+toc: false
+---
+
+## 2022
+
+:::: {.month-grid}
+
+[January](01.qmd){.month-link}
+[February](02.qmd){.month-link}
+[March](03.qmd){.month-link}
+[April](04.qmd){.month-link}
+[May](05.qmd){.month-link}
+[June](06.qmd){.month-link}
+[July](07.qmd){.month-link}
+[August](08.qmd){.month-link}
+[September](09.qmd){.month-link}
+[October](10.qmd){.month-link}
+[November](11.qmd){.month-link}
+[December](12.qmd){.month-link}
+
+::::
+
+[Back to Training Archive](../index.qmd)

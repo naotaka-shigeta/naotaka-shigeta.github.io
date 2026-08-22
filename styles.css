@@ -90,3 +90,33 @@
   box-shadow: 0 4px 14px rgba(0,0,0,0.08);
   transform: translateY(-2px);
 }
+
+/* Month selection */
+.month-grid > p {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.8rem;
+  margin: 1rem 0 2rem;
+}
+
+.month-link {
+  display: block;
+  padding: 0.8rem 1rem;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  text-align: center;
+  text-decoration: none;
+  background: #fff;
+}
+
+.month-link:hover {
+  background: #f6f6f6;
+  text-decoration: none;
+}
+
+/* Smartphone */
+@media (max-width: 576px) {
+  .month-grid > p {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
