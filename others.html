@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Links – Naotaka Shigeta</title>
+<title>Others – Naotaka Shigeta</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -108,11 +108,11 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Academic Activities</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./more.html"> 
-<span class="menu-text">More</span></a>
+    <a class="nav-link active" href="./others.html" aria-current="page"> 
+<span class="menu-text">Others</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./link.html" aria-current="page"> 
+    <a class="nav-link" href="./link.html"> 
 <span class="menu-text">Links</span></a>
   </li>  
 </ul>
@@ -138,9 +138,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#nagoya-university" id="toc-nagoya-university" class="nav-link active" data-scroll-target="#nagoya-university">Nagoya University</a></li>
-  <li><a href="#research-groups" id="toc-research-groups" class="nav-link" data-scroll-target="#research-groups">Research Groups</a></li>
-  <li><a href="#track-field" id="toc-track-field" class="nav-link" data-scroll-target="#track-field">Track &amp; Field</a></li>
+  <li><a href="#track-field" id="toc-track-field" class="nav-link active" data-scroll-target="#track-field">Track &amp; Field</a></li>
+  <li><a href="#travel-photos" id="toc-travel-photos" class="nav-link" data-scroll-target="#travel-photos">Travel &amp; Photos</a></li>
+  <li><a href="#tips-notes" id="toc-tips-notes" class="nav-link" data-scroll-target="#tips-notes">Tips &amp; Notes</a></li>
   </ul>
 </nav>
     </div>
@@ -149,7 +149,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Links</h1>
+<h1 class="title">Others</h1>
 </div>
 
 
@@ -166,26 +166,18 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="nagoya-university" class="level2">
-<h2 class="anchored" data-anchor-id="nagoya-university">Nagoya University</h2>
-<ul>
-<li><a href="https://www.nagoya-u.ac.jp/" target="_blank">名古屋大学</a></li>
-<li><a href="https://www.mae.nagoya-u.ac.jp/ja/graduate/nuae" target="_blank">名古屋大学 航空宇宙工学専攻</a></li>
-<li><a href="https://www.dii.engg.nagoya-u.ac.jp/" target="_blank">未来エレクトロニクス創成加速DII協働大学院プログラム</a></li>
-</ul>
-</section>
-<section id="research-groups" class="level2">
-<h2 class="anchored" data-anchor-id="research-groups">Research Groups</h2>
-<ul>
-<li><a href="https://www.fdl.mae.nagoya-u.ac.jp/" target="_blank">名古屋大学 流体力学研究グループ</a></li>
-</ul>
-</section>
 <section id="track-field" class="level2">
 <h2 class="anchored" data-anchor-id="track-field">Track &amp; Field</h2>
-<ul>
-<li><a href="https://www.nutfc.com/" target="_blank">名古屋大学 陸上競技部</a></li>
-<li><a href="https://blog.nutfc.com/" target="_blank">名古屋大学 陸上競技部 ブログサイト</a></li>
-</ul>
+<p>I have been involved in track and field for many years.</p>
+<p><a href="running/index.html">Track &amp; Field →</a></p>
+</section>
+<section id="travel-photos" class="level2">
+<h2 class="anchored" data-anchor-id="travel-photos">Travel &amp; Photos</h2>
+<p>Photos and notes from conferences, research visits, and travels.</p>
+</section>
+<section id="tips-notes" class="level2">
+<h2 class="anchored" data-anchor-id="tips-notes">Tips &amp; Notes</h2>
+<p>Technical notes, useful information, and things I have learned through research and daily work.</p>
 
 
 </section>
@@ -264,7 +256,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/naotaka-shigeta\.com");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
