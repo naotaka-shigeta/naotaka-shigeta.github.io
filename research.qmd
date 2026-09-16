@@ -13,7 +13,7 @@ Investigating the modulation and attenuation of shock waves through interactions
 - **Flows:** three-dimensional jets and uniform flows aligned with the direction of shock propagation
 - **Structures:** porous media and orifices
 
-### Shock-Turbulence Interaction
+### Shock/Turbulence Interaction
 
 Understanding how shock waves interact with turbulent flows through numerical simulations and experiments.
 

@@ -10,9 +10,9 @@ website:
       - href: research.qmd
         text: Research
       - href: publications.qmd
-        text: Publications
-      - href: beyond-research.qmd
-        text: Beyond Research
+        text: Academic Activities
+      - href: more.qmd
+        text: More
       - href: link.qmd
         text: Links
     right:
