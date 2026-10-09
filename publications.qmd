@@ -4,14 +4,18 @@ toc: true
 ---
 
 ## Journal Articles
+3\. **N. Shigeta**, D. Custodio, J. Hagiwara, N. Kimura, T. Asahi, K. Ozawa, Y. Nakamura and A. Sasoh,  
+   "Attenuation and modulation of weak shock waves by a porous wall layer in a shock tube", 
+   Physics of Fluids, Volume 38, Issue 10, 106113, 2026.
+   [DOI](https://doi.org/10.1063/5.0346016){target="_blank"}
 
-2\. **N. Shigeta**, J. Hagiwara, D. Custodio, N. Kimura, T. Asahi, K. Ozawa, T. Yamaguchi, G. Fukushima, Y. Nakamura,  A. Sasoh,  
+2\. **N. Shigeta**, J. Hagiwara, D. Custodio, N. Kimura, T. Asahi, K. Ozawa, T. Yamaguchi, G. Fukushima, Y. Nakamura and A. Sasoh,  
    "Experimental investigation of the Chester problem with weak shock waves propagating in converging ducts with quasi-steady flow", 
    Shock Waves, Volume 35, Issue 6, 721-737, 2025.
    [DOI](https://doi.org/10.1007/s00193-025-01244-2){target="_blank"}
 
 
-1\. J. Hagiwara, **N. Shigeta**, N. Kimura, D. Custodio, T. Asahi, K. Ozawa, T. Yamaguchi, Y. Nakamura, A. Sasoh, 
+1\. J. Hagiwara, **N. Shigeta**, N. Kimura, D. Custodio, T. Asahi, K. Ozawa, T. Yamaguchi, Y. Nakamura and A. Sasoh, 
    "Geometrical impedance matching for weak shock waves at shock tube end wall", 
    Physics of Fluids, Volume 37, Issue 4, 046111, 2025.
    [DOI](https://doi.org/10.1063/5.0260782){target="_blank"}
@@ -20,15 +24,15 @@ toc: true
 
 ### First Author
 
-3\. **N. Shigeta**, N. Kimura, J. Hagiwara, D. Custodio, T. Asahi, K. Ozawa, G. Fukushima, Y. Nakamura, A. Sasoh,
+3\. **N. Shigeta**, N. Kimura, J. Hagiwara, D. Custodio, T. Asahi, K. Ozawa, G. Fukushima, Y. Nakamura and A. Sasoh,
    "Shock Wave Propagation with Fore-Flow in Converging Ducts”, 
    The 35th International Symposium on Shock Waves, Brisbane, Australia, July 2025. 
 
-2\. **N. Shigeta**, J. Hagiwara, D. Custodio, N. Kimura, G. Fukushima, Y. Nakamura, A. Sasoh, 
+2\. **N. Shigeta**, J. Hagiwara, D. Custodio, N. Kimura, G. Fukushima, Y. Nakamura and A. Sasoh, 
    "Shock-Flow Interaction Experiments using Two-Diaphragm Shock Tube", 
    The Fourth International Conference on High Temperature Gas Dynamics, Beijing, China, October 2024. 
 
-1\. **N. Shigeta**, G. Fukushima, T. Yamaguchi, J. Hagiwara, D. Custodio, Y. Nakamura, A. Sasoh, 
+1\. **N. Shigeta**, G. Fukushima, T. Yamaguchi, J. Hagiwara, D. Custodio, Y. Nakamura and A. Sasoh, 
    "Shock Wave Mitigation due to Forward Flow Nudge", 
    The 34th International Symposium on Shock Waves，Daegu, Korea, July 2023.
 
@@ -36,7 +40,7 @@ toc: true
 
 ### Coauthor
 
-1\. T. Yamaguchi, **N. Shigeta**, G. Fukushima, D. Custodio, Y. Nakamura, A. Sasoh, 
+1\. T. Yamaguchi, **N. Shigeta**, G. Fukushima, D. Custodio, Y. Nakamura and A. Sasoh, 
    "Shock Wave Mitigation through Magic Fence",
    The 34th International Symposium on Shock Waves, Daegu, Korea, July 2023.
 
