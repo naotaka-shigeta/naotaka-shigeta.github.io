@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: "Publications & Achievements"
 toc: true
 ---
 
@@ -47,6 +47,9 @@ toc: true
 ## Conference Presentations (Domestic)
 
 ### First Author
+8\. **重田直賢**, 永田貴之, 野々村拓, 
+   「壁解像LESによる超音速格子乱流のマッハ数・レイノルズ数依存性評価」，
+   第24回日本流体力学会中部支部講演会，名古屋大学，愛知県名古屋市，2026年11月，B-2.
 
 7\. **重田直賢**, 永田貴之, 野々村拓, 
    「主流超音速下における格子乱流生成に関するLESによる検討」, 
