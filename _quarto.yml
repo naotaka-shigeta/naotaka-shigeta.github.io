@@ -1,6 +1,8 @@
 project:
   type: website
 
+lang: en
+
 website:
   title: "Naotaka Shigeta"
   navbar:
@@ -18,6 +20,13 @@ website:
     right:
       - icon: github
         href: https://github.com/naotaka-shigeta
+      - text: "English"
+        icon: globe
+        menu:
+          - text: "English"
+            href: index.qmd
+          - text: "日本語"
+            href: ja/index.qmd
   search: true
 
 format:
@@ -25,3 +34,6 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    include-after-body:
+      - text: |
+          <script src="/language-switch.js"></script>

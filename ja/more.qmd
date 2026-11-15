@@ -1,0 +1,20 @@
+---
+title: "その他"
+toc: true
+---
+
+## 陸上競技
+
+I have been involved in track and field for many years.
+
+[Track & Field →](../running/index.qmd)
+
+
+## 旅行 & 写真
+
+Photos and notes from conferences, research visits, and travels.
+
+
+## ノート
+
+Technical notes, useful information, and things I have learned through research and daily work.

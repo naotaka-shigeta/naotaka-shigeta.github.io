@@ -1,0 +1,52 @@
+---
+toc: true
+---
+## 重田直賢 <span class="jp-name">(しげた なおたか)</span>
+
+:::: {.profile-section}
+
+::: {.profile-photo-area}
+
+![](../images/profile.jpg){width=150px .profile-photo}
+
+:::
+
+::: {.profile-text-area}
+
+My research focuses on shock waves and compressible flows, using both experimental and computational approaches.
+
+I am particularly interested in shock-wave interactions with various flow fields, including uniform flows, turbulence, and boundary layers, as well as with structures such as porous media and orifices.
+
+[Google Scholar](https://scholar.google.co.jp/citations?user=K0Qp-fUAAAAJ&hl=ja){target="_blank"} |
+[ORCID](https://orcid.org/0009-0006-9675-3147){target="_blank"} |
+[researchmap](https://researchmap.jp/naotaka.shigeta){target="_blank"} |
+[LinkedIn](https://www.linkedin.com/in/naotaka-shigeta-b9a237287/?locale=ja){target="_blank"} |
+[Email](mailto:naotaka.shigeta.eng@gmail.com)
+
+:::
+
+::::
+
+
+
+## 経歴
+
+**Apr. 2025–Present**  
+Ph.D. Student in Aerospace Engineering, Graduate School of Engineering, Nagoya University
+
+**Aug. 2025–Jan. 2026**  
+Visiting Student, Department of Engineering, University of Cambridge, UK
+
+**Apr. 2023–Mar. 2025**  
+M.E. in Aerospace Engineering, Graduate School of Engineering, Nagoya University
+
+**Apr. 2019–Mar. 2023**  
+B.E. in Mechanical and Aerospace Engineering, School of Engineering, Nagoya University
+
+
+## ニュース
+
+- **Oct. 2026** — A journal paper was accepted in *Physics of Fluids*.
+- **Aug. 2026** — Personal website launched.
+- **Jan. 2026** — Completed a research stay at the University of Cambridge.
+- **Jul. 2025** — A journal paper was accepted in *Shock Waves*.
