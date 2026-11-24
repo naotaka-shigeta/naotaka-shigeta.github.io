@@ -13,9 +13,9 @@ toc: true
 
 ::: {.profile-text-area}
 
-My research focuses on shock waves and compressible flows, using both experimental and computational approaches.
+衝撃波・圧縮性流体を対象とし，実験と数値計算の両面から研究を行っています．
 
-I am particularly interested in shock-wave interactions with various flow fields, including uniform flows, turbulence, and boundary layers, as well as with structures such as porous media and orifices.
+特に，前方誘起流れ，乱流，境界層などの様々な流れ場と衝撃波との干渉，さらには多孔質体やオリフィスなどと衝撃波との干渉現象に着目しています．
 
 [Google Scholar](https://scholar.google.co.jp/citations?user=K0Qp-fUAAAAJ&hl=ja){target="_blank"} |
 [ORCID](https://orcid.org/0009-0006-9675-3147){target="_blank"} |
@@ -27,14 +27,19 @@ I am particularly interested in shock-wave interactions with various flow fields
 ::::
 
 
-
 ## 経歴
 
-**2025年4月–現在**  
-名古屋大学 工学研究科 航空宇宙工学専攻 博士後期課程
+**2026年4月–現在**  
+日本学術振興会 特別研究員 (DC2) 
 
 **2025年8月–2026年1月**  
 Visiting Student, Department of Engineering, University of Cambridge, UK
+
+
+## 学歴
+
+**2025年4月–現在**  
+名古屋大学 工学研究科 航空宇宙工学専攻 博士後期課程
 
 **2023年4月–2025年3月**  
 名古屋大学 工学研究科 航空宇宙工学専攻 博士前期課程
