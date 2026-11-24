@@ -20,7 +20,7 @@ toc: true
 [Google Scholar](https://scholar.google.co.jp/citations?user=K0Qp-fUAAAAJ&hl=ja){target="_blank"} |
 [ORCID](https://orcid.org/0009-0006-9675-3147){target="_blank"} |
 [researchmap](https://researchmap.jp/naotaka.shigeta){target="_blank"} |
-[LinkedIn](https://www.linkedin.com/in/naotaka-shigeta-b9a237287/?locale=ja){target="_blank"} |
+[LinkedIn](https://www.linkedin.com/in/naotaka-shigeta-b9a237287/?locale=ja){target="_blank"} 
 
 :::
 
