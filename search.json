@@ -81,28 +81,28 @@
     "href": "link.html",
     "title": "Links",
     "section": "",
-    "text": "名古屋大学\n名古屋大学 航空宇宙工学専攻\n未来エレクトロニクス創成加速DII協働大学院プログラム"
+    "text": "Nagoya University\nDivisions of Mechanical and Aerospace Engineering\nDII Collaborative Graduate Program for Accelerating Innovation in Future Electronics"
   },
   {
     "objectID": "link.html#nagoya-university",
     "href": "link.html#nagoya-university",
     "title": "Links",
     "section": "",
-    "text": "名古屋大学\n名古屋大学 航空宇宙工学専攻\n未来エレクトロニクス創成加速DII協働大学院プログラム"
+    "text": "Nagoya University\nDivisions of Mechanical and Aerospace Engineering\nDII Collaborative Graduate Program for Accelerating Innovation in Future Electronics"
   },
   {
     "objectID": "link.html#research-groups",
     "href": "link.html#research-groups",
     "title": "Links",
     "section": "Research Groups",
-    "text": "Research Groups\n\n名古屋大学 流体力学研究グループ"
+    "text": "Research Groups\n\nFluid Dynamics Laboratory, Nagoya University"
   },
   {
     "objectID": "link.html#track-field",
     "href": "link.html#track-field",
     "title": "Links",
     "section": "Track & Field",
-    "text": "Track & Field\n\n名古屋大学 陸上競技部\n名古屋大学 陸上競技部 ブログサイト"
+    "text": "Track & Field\n\nTrack and Field Team, Nagoya University\nTrack and Field Team Blog, Nagoya University"
   },
   {
     "objectID": "ja/publications.html",
@@ -189,11 +189,18 @@
     "text": "My research focuses on shock waves and compressible flows, using both experimental and computational approaches.\nI am particularly interested in shock-wave interactions with various flow fields, including uniform flows, turbulence, and boundary layers, as well as with structures such as porous media and orifices.\nGoogle Scholar | ORCID | researchmap | LinkedIn |"
   },
   {
-    "objectID": "index.html#education-research-experience",
-    "href": "index.html#education-research-experience",
+    "objectID": "index.html#research-experience",
+    "href": "index.html#research-experience",
     "title": "Naotaka Shigeta",
-    "section": "Education & Research Experience",
-    "text": "Education & Research Experience\nApr. 2025–Present\nPh.D. Student in Aerospace Engineering, Graduate School of Engineering, Nagoya University\nAug. 2025–Jan. 2026\nVisiting Student, Department of Engineering, University of Cambridge, UK\nApr. 2023–Mar. 2025\nM.E. in Aerospace Engineering, Graduate School of Engineering, Nagoya University\nApr. 2019–Mar. 2023\nB.E. in Mechanical and Aerospace Engineering, School of Engineering, Nagoya University"
+    "section": "Research Experience",
+    "text": "Research Experience\nApr. 2026–Present\nJSPS Research Fellow (DC2), Japan Society for the Promotion of Science (JSPS)\nAug. 2025–Jan. 2026\nVisiting Student, Department of Engineering, University of Cambridge, UK"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Naotaka Shigeta",
+    "section": "Education",
+    "text": "Education\nApr. 2025–Present\nPh.D. Student in Aerospace Engineering, Graduate School of Engineering, Nagoya University\nApr. 2023–Mar. 2025\nM.E. in Aerospace Engineering, Graduate School of Engineering, Nagoya University\nApr. 2019–Mar. 2023\nB.E. in Mechanical and Aerospace Engineering, School of Engineering, Nagoya University"
   },
   {
     "objectID": "index.html#latest-updates",
@@ -207,21 +214,28 @@
     "href": "ja/index.html",
     "title": "Naotaka Shigeta",
     "section": "",
-    "text": "My research focuses on shock waves and compressible flows, using both experimental and computational approaches.\nI am particularly interested in shock-wave interactions with various flow fields, including uniform flows, turbulence, and boundary layers, as well as with structures such as porous media and orifices.\nGoogle Scholar | ORCID | researchmap | LinkedIn |"
+    "text": "衝撃波・圧縮性流体を対象とし，実験と数値計算の両面から研究を行っています．\n特に，前方誘起流れ，乱流，境界層などの様々な流れ場と衝撃波との干渉，さらには多孔質体やオリフィスなどと衝撃波との干渉現象に着目しています．\nGoogle Scholar | ORCID | researchmap | LinkedIn |"
   },
   {
     "objectID": "ja/index.html#重田直賢-しげた-なおたか",
     "href": "ja/index.html#重田直賢-しげた-なおたか",
     "title": "Naotaka Shigeta",
     "section": "",
-    "text": "My research focuses on shock waves and compressible flows, using both experimental and computational approaches.\nI am particularly interested in shock-wave interactions with various flow fields, including uniform flows, turbulence, and boundary layers, as well as with structures such as porous media and orifices.\nGoogle Scholar | ORCID | researchmap | LinkedIn |"
+    "text": "衝撃波・圧縮性流体を対象とし，実験と数値計算の両面から研究を行っています．\n特に，前方誘起流れ，乱流，境界層などの様々な流れ場と衝撃波との干渉，さらには多孔質体やオリフィスなどと衝撃波との干渉現象に着目しています．\nGoogle Scholar | ORCID | researchmap | LinkedIn |"
   },
   {
     "objectID": "ja/index.html#経歴",
     "href": "ja/index.html#経歴",
     "title": "Naotaka Shigeta",
     "section": "経歴",
-    "text": "経歴\n2025年4月–現在\n名古屋大学 工学研究科 航空宇宙工学専攻 博士後期課程\n2025年8月–2026年1月\nVisiting Student, Department of Engineering, University of Cambridge, UK\n2023年4月–2025年3月\n名古屋大学 工学研究科 航空宇宙工学専攻 博士前期課程\n2019年4月–2023年3月\n名古屋大学 工学部 機械航空工学科"
+    "text": "経歴\n2026年4月–現在\n日本学術振興会 特別研究員 (DC2)\n2025年8月–2026年1月\nVisiting Student, Department of Engineering, University of Cambridge, UK"
+  },
+  {
+    "objectID": "ja/index.html#学歴",
+    "href": "ja/index.html#学歴",
+    "title": "Naotaka Shigeta",
+    "section": "学歴",
+    "text": "学歴\n2025年4月–現在\n名古屋大学 工学研究科 航空宇宙工学専攻 博士後期課程\n2023年4月–2025年3月\n名古屋大学 工学研究科 航空宇宙工学専攻 博士前期課程\n2019年4月–2023年3月\n名古屋大学 工学部 機械航空工学科"
   },
   {
     "objectID": "ja/index.html#ニュース",
