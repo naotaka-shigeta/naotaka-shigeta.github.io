@@ -11,7 +11,17 @@ toc: true
 
 ## 研究室
 
-- [名古屋大学 流体力学研究グループ](https://www.fdl.mae.nagoya-u.ac.jp/){target="_blank"}
+- [名古屋大学 流体力学研究グループ](https://www.fdl.mae.nagoya-u.ac.jp/){target="_blank"}　(2025年4月〜現在まで所属)
+- [名古屋大学 衝撃波・宇宙推進研究グループ](https://akagi.nuae.nagoya-u.ac.jp/){target="_blank"}　(2022年4月〜2025年3月まで所属)
+
+## 学会
+
+- [日本流体力学会](https://www.nagare.or.jp/){target="_blank"}
+- [日本航空宇宙学会](https://www.jsass.or.jp/){target="_blank"}
+- [日本衝撃波研究会](https://www.swsoc.jp/){target="_blank"}
+- [日本機械学会](https://www.jsme.or.jp/){target="_blank"}
+- [AIAA(アメリカ航空宇宙学会)](https://aiaa.org/){target="_blank"}
+- [ISWI(国際衝撃波研究会)](https://iswi.jp/){target="_blank"}
 
 ## 陸上競技部
 

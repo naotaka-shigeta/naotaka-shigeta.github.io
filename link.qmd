@@ -11,7 +11,17 @@ toc: true
 
 ## Research Groups
 
-- [Fluid Dynamics Laboratory, Nagoya University](https://www.fdl.mae.nagoya-u.ac.jp/en/home/){target="_blank"}
+- [Fluid Dynamics Laboratory, Nagoya University](https://www.fdl.mae.nagoya-u.ac.jp/en/home/){target="_blank"}　(Apr.2025–present)
+- [Shock Wave and Space Propulsion Laboratory, Nagoya University](https://akagi.nuae.nagoya-u.ac.jp/){target="_blank"}　(Apr. 2022–Mar. 2025)
+
+## Academic Societies
+
+- [JSFM (The Japan Society of Fluid Mechanics)](https://www.nagare.or.jp/en/index.html){target="_blank"}
+- [JSASS (The Japan Society for Aeronautical and Space Sciences)](https://www.jsass.or.jp/webe/){target="_blank"}
+- [SWSOC (Shock Wave Research Society of Japan)](https://www.swsoc.jp/){target="_blank"}
+- [JSME (The Japan Society of Mechanical Engineers)](https://www.jsme.or.jp/english/){target="_blank"}
+- [AIAA (American Institute of Aeronautics and Astronautics)](https://aiaa.org/){target="_blank"}
+- [ISWI (International Shock Waves Institute)](https://iswi.jp/){target="_blank"}
 
 ## Track & Field
 
